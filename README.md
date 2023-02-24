@@ -1,5 +1,5 @@
 
-> Notice: this is a fork of this repo "[dopyo.js](https://github.com/park108/dopyo.js/)" by [park108](https://github.com/park108), all credits to the original creator.
+> Notice: this is a fork of this repo "[dopyo.js](https://github.com/park108/dopyo.js/)" by [park108](https://github.com/park108), all credits for the original codebase goes towards the creator. This fork is a work in progress and is not ready for production use. However, if you are interested in contributing, please feel free to do so.
 
 # SVG Data Doodle
 
